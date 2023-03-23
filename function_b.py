@@ -10,6 +10,8 @@ def silly_sum():
     num = int(input('Please enter a number => '))
     sum = 0
 
+    #adding extra
+
     while num != 0:
         sum += num
         if sum >= 1000:
