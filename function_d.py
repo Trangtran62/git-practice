@@ -3,7 +3,7 @@ def max_value(numbers):
         in the list.
     """
     # I'm Trang
-    return max(numbers)
+    
 
 
 if __name__ == "__main__":
